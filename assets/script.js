@@ -1,0 +1,1 @@
+console.log("https://api.openweathermap.org/data/2.5/onecall?lat=39.31&lon=-74.5&exclude={part}&appid=d91f911bcf2c0f925fb6535547a5ddc9")
